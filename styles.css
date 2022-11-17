@@ -39,9 +39,10 @@ section, header, footer {
 }
 
 .section-title button {
-    margin-left: 555px;
-    margin-right: 555px;
-    height: 50px;
+    margin-left: 27vw;
+    margin-right: 27vw;
+    height: 60px;
+    font-size: 2.25vw;
 }
 
 .section-summary {
